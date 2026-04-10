@@ -60,9 +60,9 @@ Export: Download predictions and performance reports as CSV
 
 # 📊 Dataset Information
 Source: Wine Quality Dataset (UCI Machine Learning Repository)  
-File: WineQT.csv
-Samples: 1143 wine records
-Features: 11 physicochemical properties + 1 target variable
+File: WineQT.csv  
+Samples: 1143 wine records  
+Features: 11 physicochemical properties + 1 target variable  
 Feature Details
 =====================================================================================================
 | # | Tab Name          | What You Can Do                                                           |
