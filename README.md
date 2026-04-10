@@ -315,11 +315,11 @@ This project is created purely for educational purposes as part of the AI & Data
 
 # 🙏 Acknowledgments
 
-Dataset: Wine Quality Dataset — UCI Machine Learning Repository
-ML Framework: scikit-learn
-Web Framework: Streamlit
-Visualization: Plotly, Matplotlib, Seaborn
-Guidance: Course Instructors & Mentors
+Dataset: Wine Quality Dataset — UCI Machine Learning Repository  
+ML Framework: scikit-learn  
+Web Framework: Streamlit  
+Visualization: Plotly, Matplotlib, Seaborn  
+Guidance: Course Instructors & Mentors  
 
 
 
