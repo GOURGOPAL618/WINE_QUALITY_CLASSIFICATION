@@ -309,10 +309,10 @@ Output: predictions.csv with quality class for each wine
 ║  Course        : AI & Data Science — 2026        ║
 ╚══════════════════════════════════════════════════╝
 
-📄 License
+ # 📄 License
 This project is created purely for educational purposes as part of the AI & Data Science Course (2026). Dataset credits go to the UCI Machine Learning Repository.
 
-🙏 Acknowledgments
+# 🙏 Acknowledgments
 
 Dataset: Wine Quality Dataset — UCI Machine Learning Repository
 ML Framework: scikit-learn
@@ -321,5 +321,5 @@ Visualization: Plotly, Matplotlib, Seaborn
 Guidance: Course Instructors & Mentors
 
 
-Made with 🩵 by TEAM DYNAMO | AI & Data Science Project 2026
-Arijit (450) • Gouragopal (459) • Aayush (440) • Ashok (452) • Rudra (436) • Farhan (458)
+# Made with 🩵 by TEAM DYNAMO | AI & Data Science Project 2026
+# Arijit (450) • Gouragopal (459) • Aayush (440) • Ashok (452) • Rudra (436) • Farhan (458)
