@@ -58,7 +58,7 @@ Export: Download predictions and performance reports as CSV
 🏆 Winner: SVM with RBF Kernel — highest accuracy and F1 score across all quality classes.
 
 
-📊 Dataset Information
+# 📊 Dataset Information
 Source: Wine Quality Dataset (UCI Machine Learning Repository)
 File: WineQT.csv
 Samples: 1143 wine records
