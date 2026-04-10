@@ -1,11 +1,11 @@
 # 🍷 Wine Quality Classification System
-An Intelligent Machine Learning Web Application for Wine Quality Prediction Based on Physicochemical Properties
+# An Intelligent Machine Learning Web Application for Wine Quality Prediction Based on Physicochemical Properties
 
-📋 Project Overview
+# 📋 Project Overview
 Wine quality assessment has traditionally been performed by human experts through sensory evaluation — a process that is subjective, time-consuming, and expensive. This project addresses that challenge by building an intelligent Machine Learning Classification System that can automatically predict wine quality based on measurable physicochemical properties.
 Using the WineQT dataset containing 1143 real wine samples with 11 chemical features, we trained and compared 4 different classification models (excluding Random Forest and Decision Trees) to find the best performing algorithm. The final system is deployed as an interactive Streamlit web application with live prediction, batch processing, and visual analytics.
 
-👥 Team DYNAMO
+# 👥 Team DYNAMO
 ## 👥 TEAM DYNAMO - Wine Quality Classification Project
 
 | Name | Registration No. | Role | Responsibility |
