@@ -319,6 +319,7 @@ ML Framework: scikit-learn
 Web Framework: Streamlit
 Visualization: Plotly, Matplotlib, Seaborn
 Guidance: Course Instructors & Mentors
+```
 
 
 # Made with 🩵 by TEAM DYNAMO | AI & Data Science Project 2026
