@@ -308,6 +308,7 @@ Output: predictions.csv with quality class for each wine
 ║  Team Size     : 5 Members                       ║
 ║  Course        : AI & Data Science — 2026        ║
 ╚══════════════════════════════════════════════════╝
+```
 
  # 📄 License
 This project is created purely for educational purposes as part of the AI & Data Science Course (2026). Dataset credits go to the UCI Machine Learning Repository.
@@ -319,7 +320,7 @@ ML Framework: scikit-learn
 Web Framework: Streamlit
 Visualization: Plotly, Matplotlib, Seaborn
 Guidance: Course Instructors & Mentors
-```
+
 
 
 # Made with 🩵 by TEAM DYNAMO | AI & Data Science Project 2026
